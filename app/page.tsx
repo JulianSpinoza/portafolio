@@ -6,7 +6,7 @@ const ME = {
   name: "Julián Camilo Espinosa Morales",
   tagline: "I build tools for storytelling and games.",
   intro:
-    "Systems Engineering student in Bogotá, Colombia. I like building products for writers and players — from a literary platform with a rich-text editor to an AI tool that keeps RPG campaigns consistent.",
+    "Systems Engineering student in Bogotá, Colombia. I like building products for writers and players — from a roleplay community's platform with a rich-text editor to an AI tool that keeps RPG campaigns consistent.",
   github: "https://github.com/JulianSpinoza",
   linkedin: "https://www.linkedin.com/in/julian-espinosa-m/",
   email: "juliancaesmorales@ejemplo.com",
